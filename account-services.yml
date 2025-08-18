@@ -4,7 +4,7 @@ spring:
 
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://localhost:5432/mifos_account_db
+    url: jdbc:postgresql://host.docker.internal:5432/mifos_account_db
     username: postgres
     password: admin.2001
 
