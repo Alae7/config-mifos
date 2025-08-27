@@ -5,8 +5,8 @@ spring:
   datasource:
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql://postgres:5432/mifos_account_db
-    username: mifos
-    password: password
+    username: postgres
+    password: admin.2001
 
 
   jpa:
