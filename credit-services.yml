@@ -16,4 +16,4 @@ spring:
 
 
 server:
-  port: 9070
+  port: ${SERVER_PORT}
